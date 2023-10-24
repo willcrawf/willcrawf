@@ -1,5 +1,3 @@
-# Hello, I'm Will Crawford! 👋
-
 ![Header](./github-header-image.png)
 
 
